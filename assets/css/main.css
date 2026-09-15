@@ -35,14 +35,8 @@ table {
 }
 
 .overview {
-    display: flex;
-    justify-content: space-evenly;
+    display: flow-root;
 }
-
-section h2 {
-    text-align: center;
-}
-
-section ul {
-    text-align: left;
+.overview img {
+    float: right
 }
