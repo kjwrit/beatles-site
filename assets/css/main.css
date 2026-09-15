@@ -5,8 +5,11 @@ body {
 }
 
 header {
-    text-align: center;
     background-color: grey;
+}
+
+h1 {
+    text-align: center;
 }
 
 .navbar ul {
@@ -25,4 +28,21 @@ caption {
 }
 table {
     background-color: skyblue
+}
+
+.homelink {
+    text-align: left;
+}
+
+.overview {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section h2 {
+    text-align: center;
+}
+
+section ul {
+    text-align: left;
 }
