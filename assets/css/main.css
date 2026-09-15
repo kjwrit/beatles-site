@@ -12,11 +12,11 @@ header {
 .navbar ul {
     list-style-type: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .navbar ul li {
-    padding: 5px;
+    text-align: center;
 }
 
 caption {
