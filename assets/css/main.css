@@ -1,6 +1,7 @@
 body {
     background-color: lightgrey;
     color: black;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 header {
@@ -15,5 +16,9 @@ header {
 
 .navbar ul li {
     padding: 5px;
+    background-color: darkgrey;
+}
+
+table {
     background-color: darkgrey;
 }
