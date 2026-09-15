@@ -37,8 +37,7 @@ table {
 .overview {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 20px;
+    justify-content: space-around;
 }
 
 .overview section {
