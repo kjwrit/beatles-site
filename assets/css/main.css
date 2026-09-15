@@ -7,3 +7,13 @@ header {
     text-align: center;
     background-color: grey;
 }
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar ul li {
+    padding: 5px;
+    background-color: darkgrey;
+}
