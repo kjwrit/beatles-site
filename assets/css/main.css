@@ -35,8 +35,16 @@ table {
 }
 
 .overview {
-    display: flow-root;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.overview section {
+    flex: 1;
 }
 .overview img {
-    float: right
+    max-width: 100%;
+    height: auto;
 }
